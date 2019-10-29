@@ -10,6 +10,7 @@ ITCrowed 的个人博客
 
 ### 最新
 
+* [solo 博客搭建 2019 年版本](https://www.easeland.xyz:8085/articles/2019/10/28/1572250906399.html)
 * [Centos 安装Nginx 反向代理Tomcat 配置Https ](https://www.easeland.xyz:8085/articles/2019/10/27/1572174965063.html)
 * [linux 下一些常用命令 ](https://www.easeland.xyz:8085/articles/2019/10/27/1572168262322.html)
 * [世界，你好！](https://www.easeland.xyz:8085/hello-solo)
