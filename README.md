@@ -10,6 +10,8 @@ ITCrowed 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.easeland.xyz:8085/my-github-repos)
+* [hexo 常用命令](https://www.easeland.xyz:8085/articles/2019/11/03/1572711321276.html)
 * [前端插件 mui 的 ios 适配性问题](https://www.easeland.xyz:8085/articles/2019/10/30/1572424576897.html)
 * [从零开始搭建 solo 个人博客系统](https://www.easeland.xyz:8085/articles/2019/10/30/1572417234598.html)
 * [solo 博客搭建 2019 年版本](https://www.easeland.xyz:8085/articles/2019/10/28/1572250906399.html)
