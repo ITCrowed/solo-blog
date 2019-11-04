@@ -10,6 +10,7 @@ ITCrowed 的个人博客
 
 ### 最新
 
+* [pandas操作dataframe使用drop()函数删除一行或一列](https://www.easeland.xyz:8085/articles/2019/11/03/1572772420051.html)
 * [我在 GitHub 上的开源项目](https://www.easeland.xyz:8085/my-github-repos)
 * [hexo 常用命令](https://www.easeland.xyz:8085/articles/2019/11/03/1572711321276.html)
 * [前端插件 mui 的 ios 适配性问题](https://www.easeland.xyz:8085/articles/2019/10/30/1572424576897.html)
