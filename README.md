@@ -10,6 +10,7 @@ ITCrowed 的个人博客
 
 ### 最新
 
+* [Mblog 博客系统配置](https://www.easeland.xyz:8085/articles/2019/11/05/1572886686721.html)
 * [pandas操作dataframe使用drop()函数删除一行或一列](https://www.easeland.xyz:8085/articles/2019/11/03/1572772420051.html)
 * [我在 GitHub 上的开源项目](https://www.easeland.xyz:8085/my-github-repos)
 * [hexo 常用命令](https://www.easeland.xyz:8085/articles/2019/11/03/1572711321276.html)
