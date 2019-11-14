@@ -10,6 +10,8 @@ ITCrowed 的个人博客
 
 ### 最新
 
+* [pandas的concat函数和append方法](https://www.easeland.xyz:8085/articles/2019/11/14/1573717252469.html)
+* [pandas.read_csv()参数详解](https://www.easeland.xyz:8085/articles/2019/11/13/1573641537040.html)
 * [yum简介及常用命令](https://www.easeland.xyz:8085/articles/2019/11/12/1573546180579.html)
 * [阿里巴巴开源镜像站](https://www.easeland.xyz:8085/articles/2019/11/12/1573545789119.html)
 * [Python3：定时任务实现方式](https://www.easeland.xyz:8085/articles/2019/11/12/1573545588884.html)
