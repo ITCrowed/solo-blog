@@ -10,6 +10,10 @@ ITCrowed 的个人博客
 
 ### 最新
 
+* [PyTorch安装指令](https://www.easeland.xyz:8085/articles/2019/11/15/1573799484289.html)
+* [Solo快速搭建个人博客](https://www.easeland.xyz:8085/articles/2019/11/15/1573797944826.html)
+* [centos7 阿里云镜像地址](https://www.easeland.xyz:8085/articles/2019/11/15/1573797522194.html)
+* [宝塔面板（BT）安装命令](https://www.easeland.xyz:8085/articles/2019/11/15/1573783603170.html)
 * [pandas的concat函数和append方法](https://www.easeland.xyz:8085/articles/2019/11/14/1573717252469.html)
 * [pandas.read_csv()参数详解](https://www.easeland.xyz:8085/articles/2019/11/13/1573641537040.html)
 * [yum简介及常用命令](https://www.easeland.xyz:8085/articles/2019/11/12/1573546180579.html)
@@ -26,6 +30,9 @@ ITCrowed 的个人博客
 * [从零开始搭建 solo 个人博客系统](https://www.easeland.xyz:8085/articles/2019/10/30/1572417234598.html)
 * [solo 博客搭建 2019 年版本](https://www.easeland.xyz:8085/articles/2019/10/28/1572250906399.html)
 * [Centos 安装Nginx 反向代理Tomcat 配置Https ](https://www.easeland.xyz:8085/articles/2019/10/27/1572174965063.html)
+
+### 热门
+
 * [linux 下一些常用命令 ](https://www.easeland.xyz:8085/articles/2019/10/27/1572168262322.html)
 * [世界，你好！](https://www.easeland.xyz:8085/hello-solo)
 
