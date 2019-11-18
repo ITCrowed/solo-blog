@@ -10,6 +10,9 @@ ITCrowed 的个人博客
 
 ### 最新
 
+* [pandas nan值处理方法](https://www.easeland.xyz:8085/articles/2019/11/18/1574050428478.html)
+* [pycharm最新激活码（2019）](https://www.easeland.xyz:8085/articles/2019/11/17/1573993024753.html)
+* [maven 报错 Cannot resolve plugin org.apache.maven.plugins:maven-war-plugin:2.1.1](https://www.easeland.xyz:8085/articles/2019/11/17/1573978929718.html)
 * [PyTorch安装指令](https://www.easeland.xyz:8085/articles/2019/11/15/1573799484289.html)
 * [Solo快速搭建个人博客](https://www.easeland.xyz:8085/articles/2019/11/15/1573797944826.html)
 * [centos7 阿里云镜像地址](https://www.easeland.xyz:8085/articles/2019/11/15/1573797522194.html)
@@ -27,14 +30,14 @@ ITCrowed 的个人博客
 * [我在 GitHub 上的开源项目](https://www.easeland.xyz:8085/my-github-repos)
 * [hexo 常用命令](https://www.easeland.xyz:8085/articles/2019/11/03/1572711321276.html)
 * [前端插件 mui 的 ios 适配性问题](https://www.easeland.xyz:8085/articles/2019/10/30/1572424576897.html)
-* [从零开始搭建 solo 个人博客系统](https://www.easeland.xyz:8085/articles/2019/10/30/1572417234598.html)
-* [solo 博客搭建 2019 年版本](https://www.easeland.xyz:8085/articles/2019/10/28/1572250906399.html)
-* [Centos 安装Nginx 反向代理Tomcat 配置Https ](https://www.easeland.xyz:8085/articles/2019/10/27/1572174965063.html)
 
 ### 热门
 
+* [Centos 安装Nginx 反向代理Tomcat 配置Https ](https://www.easeland.xyz:8085/articles/2019/10/27/1572174965063.html)
 * [linux 下一些常用命令 ](https://www.easeland.xyz:8085/articles/2019/10/27/1572168262322.html)
 * [世界，你好！](https://www.easeland.xyz:8085/hello-solo)
+* [solo 博客搭建 2019 年版本](https://www.easeland.xyz:8085/articles/2019/10/28/1572250906399.html)
+* [从零开始搭建 solo 个人博客系统](https://www.easeland.xyz:8085/articles/2019/10/30/1572417234598.html)
 
 
 
